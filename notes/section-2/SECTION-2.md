@@ -1,4 +1,4 @@
-#Section 1
+#Section 2
 This section covers what is terraform and why we should use it.
 
 - Terraform lets you automate infrastructure provisioning to the cloud.
